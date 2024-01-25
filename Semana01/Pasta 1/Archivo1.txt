@@ -1,0 +1,6 @@
+127.0.1.1
+yeyner-VirtualBox
+Nova linha adicionada
+
+Linux
+6.5.0-14-generic
