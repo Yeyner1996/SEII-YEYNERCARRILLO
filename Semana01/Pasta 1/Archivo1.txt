@@ -4,3 +4,4 @@ Nova linha adicionada
 
 Linux
 6.5.0-14-generic
+Linha agregada com o comando echo
