@@ -2,4 +2,7 @@
 #include "Exemplo.h"
 
 
-void imprimir();
+int soma(int a ,int b){
+
+    return a + b;
+}

@@ -1,15 +1,9 @@
-#include <stdio.h>
 
+#ifndef Exemplo2_header
+#define Exemplo2_header
 
+// funçao imprimir, definação de variaveis
 
-// funçai imprimir 
+int soma(int a, int b);
 
-
-void imprimir();
-
-void imprimir (){
-
-    printf("Codigo.h \n");
-
-    
-}
+#endif
